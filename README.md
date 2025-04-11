@@ -1,4 +1,4 @@
-# Data-Driven Retail Insights: Chip Category Review & Store Trial Performance
+# Data-Driven Retail Insights: Chips Category Review & Store Trial Performance
 
 ## 🧠 Overview
 This project explores retail data to uncover insights into customer purchasing behavior and evaluate the success of a store trial initiative.
@@ -18,7 +18,7 @@ This project explores retail data to uncover insights into customer purchasing b
 
 ---
 
-## 📊 Case Study 1: Chip Purchase Behavior
+## 📊 Case Study 1: Chips Purchase Behavior
 
 ### 🎯 Goal
 Identify the highest-value customer segments and their chip buying behavior.
@@ -72,7 +72,7 @@ Store 77 outperformed its control in sales and customer engagement. Recommend sc
 ---
 
 ## 📁 Outputs
-- `chip-purchase-analysis.ipynb` (Python notebook)
+- `chips-purchase-analysis.ipynb` (Python notebook)
 - `store-trial-analysis.ipynb` (Python notebook)
 - `Final_PPT_Deck.pptx` (Executive Summary presentation)
 - Exported charts (PNG format)
@@ -89,6 +89,6 @@ Store 77 outperformed its control in sales and customer engagement. Recommend sc
 ---
 
 ## 💬 Contact
-For questions, reach out via [LinkedIn](https://www.linkedin.com/) or open an issue.
+For questions, reach out via [LinkedIn](https://www.linkedin.com/in/roshan-vishwakarma-a22718206) or open an issue.
 
-> Project by [Your Name] | April 2025
+> Project by [Roshan Vishwakarma] | April 2025
